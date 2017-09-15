@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## Welcome splanin2002 github gmaes
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
